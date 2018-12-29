@@ -60,6 +60,10 @@ button {
   background: red;
 }
 
+#slowButton {
+  visibility: hidden;
+}
+
 #yellow.lit {
   background: yellow;
 }
