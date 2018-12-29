@@ -53,6 +53,7 @@ button {
   height: 150px;
   border-radius: 50%;
   background: black;
+  transition: background .3s ease;
 }
 
 #red.lit {
